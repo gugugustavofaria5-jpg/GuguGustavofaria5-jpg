@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>GUSTAVO FARIA</h1>
-  <h3>Estudante de Programação · Backend em formação</h3>
+  <h1>Gustavo Faria</h1>
+  <h3>Estudante de Programação | Desenvolvedor Backend em formação</h3>
 
   <p>
-    Construindo projetos, desenvolvendo minha lógica e evoluindo um passo de cada vez.
+    Transformando curiosidade em código e ideias em projetos.
   </p>
 
   <p>
@@ -12,153 +12,136 @@
     &nbsp;·&nbsp;
     <a href="https://www.instagram.com/gguynasn/">Instagram</a>
     &nbsp;·&nbsp;
-    <a href="COLE_AQUI_SEU_LINK_DO_LINKEDIN">LinkedIn</a>
+    LinkedIn
+  </p>
+
+  <p>
+    <code>Python</code>
+    <code>Git</code>
+    <code>GitHub</code>
+    <code>VS Code</code>
   </p>
 
 </div>
 
-<hr>
+---
 
-<h2>01 · Sobre mim</h2>
+## 01 / Sobre mim
 
-<p>
-  Sou estudante de programação, com foco atual em Python e objetivo de seguir
-  na área de desenvolvimento backend. Tenho estudado lógica de programação,
-  criado projetos práticos e aprendido ferramentas que fazem parte do fluxo
-  de desenvolvimento.
-</p>
+Sou estudante de programação, com foco atual em **Python** e objetivo de seguir no desenvolvimento **Backend**.
 
-<p>
-  Estou construindo minha experiência por meio de exercícios e projetos próprios.
-  Meu próximo passo é ampliar minha base com tecnologias web e banco de dados,
-  além de buscar uma oportunidade de estágio na área.
-</p>
+Tenho construído minha base por meio de estudos de lógica, exercícios e projetos próprios. Estou aprendendo a organizar melhor meu código, utilizar ferramentas de desenvolvimento e transformar o que estudo em aplicações práticas.
 
-<h2>02 · Tecnologias e estudos</h2>
+Meu próximo passo é ampliar meus conhecimentos em desenvolvimento web e bancos de dados, além de buscar uma oportunidade de estágio na área de programação.
 
-<table>
-  <tr>
-    <th align="left">Área</th>
-    <th align="left">Tecnologias</th>
-    <th align="left">Status</th>
-  </tr>
-  <tr>
-    <td>Programação</td>
-    <td>Python</td>
-    <td>Estudando e praticando</td>
-  </tr>
-  <tr>
-    <td>Versionamento</td>
-    <td>Git · GitHub</td>
-    <td>Em aprendizado</td>
-  </tr>
-  <tr>
-    <td>Editor e ferramentas</td>
-    <td>VS Code</td>
-    <td>Em uso</td>
-  </tr>
-  <tr>
-    <td>Desenvolvimento web</td>
-    <td>HTML · CSS · JavaScript</td>
-    <td>Próximos estudos</td>
-  </tr>
-  <tr>
-    <td>Banco de dados</td>
-    <td>SQL · MySQL</td>
-    <td>Próximos estudos</td>
-  </tr>
-</table>
+---
 
-<h2>03 · Projetos em destaque</h2>
+## 02 / Tecnologias
 
-<p>
-  Alguns dos projetos que venho desenvolvendo para praticar programação,
-  lógica e organização de código.
-</p>
+**Estudando e praticando**
 
-<table>
-  <tr>
-    <th align="left">Projeto</th>
-    <th align="left">Descrição</th>
-    <th align="left">Tecnologia</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gugugustavofaria5-jpg/jogo-da-cobra">
-        <strong>Jogo da Cobra</strong>
-      </a>
-    </td>
-    <td>Versão do jogo clássico para praticar lógica e programação.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gugugustavofaria5-jpg/-Calcular-Media-Python">
-        <strong>Calculadora de Média</strong>
-      </a>
-    </td>
-    <td>Programa para calcular médias a partir de notas informadas.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gugugustavofaria5-jpg/Castra-o_de_materias">
-        <strong>Cadastro de Matérias</strong>
-      </a>
-    </td>
-    <td>Projeto para registrar e organizar disciplinas.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gugugustavofaria5-jpg/Classifica-o-Num-rica">
-        <strong>Classificação Numérica</strong>
-      </a>
-    </td>
-    <td>Exercício de lógica para classificar valores numéricos.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gugugustavofaria5-jpg/gerenciador-de-diarias-python">
-        <strong>Gerenciador de Diárias</strong>
-      </a>
-    </td>
-    <td>Aplicação para organizar registros relacionados a diárias.</td>
-    <td>Python</td>
-  </tr>
-</table>
+`Python` `Git` `GitHub` `VS Code`
 
-<h2>04 · Objetivos</h2>
+**Próximos estudos**
 
-<ul>
-  <li>Fortalecer minha lógica de programação com prática constante.</li>
-  <li>Concluir meus estudos de Git e GitHub.</li>
-  <li>Aprender HTML, CSS, JavaScript e SQL.</li>
-  <li>Desenvolver projetos que integrem programação e banco de dados.</li>
-  <li>Buscar uma oportunidade de estágio em programação/backend.</li>
-</ul>
+`HTML` `CSS` `JavaScript` `SQL` `MySQL`
 
-<h2>05 · GitHub</h2>
+**Área de interesse**
 
-<p>
-  Uso este perfil para compartilhar meus estudos, acompanhar minha evolução
-  e publicar projetos desenvolvidos durante minha formação.
-</p>
+`Desenvolvimento Backend` `APIs` `Banco de Dados`
 
-<p align="center">
-  <a href="https://github.com/gugugustavofaria5-jpg?tab=repositories">
-    Ver todos os repositórios
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/gugugustavofaria5-jpg?tab=overview">
-    Ver atividade do perfil
-  </a>
-</p>
+---
 
-<hr>
+## 03 / Projetos selecionados
+
+Projetos que desenvolvi para praticar lógica de programação, trabalhar com dados e ganhar experiência escrevendo código.
+
+### 🐍 Jogo da Cobra
+
+Jogo clássico desenvolvido em Python como prática de programação e lógica.
+
+**Tecnologia:** Python
+
+[Ver repositório →](https://github.com/gugugustavofaria5-jpg/jogo-da-cobra)
+
+---
+
+### 📊 Calculadora de Média
+
+Programa para calcular médias a partir das notas informadas, praticando operações e entrada de dados.
+
+**Tecnologia:** Python
+
+[Ver repositório →](https://github.com/gugugustavofaria5-jpg/-Calcular-Media-Python)
+
+---
+
+### 📚 Cadastro de Matérias
+
+Projeto para registrar e organizar disciplinas, aplicando conceitos fundamentais de programação.
+
+**Tecnologia:** Python
+
+[Ver repositório →](https://github.com/gugugustavofaria5-jpg/Castra-o_de_materias)
+
+---
+
+### 🔢 Classificação Numérica
+
+Exercício de programação voltado à classificação de valores e à prática de estruturas condicionais.
+
+**Tecnologia:** Python
+
+[Ver repositório →](https://github.com/gugugustavofaria5-jpg/Classifica-o-Num-rica)
+
+---
+
+### 📋 Gerenciador de Diárias
+
+Projeto em Python para organizar registros relacionados a diárias.
+
+**Tecnologia:** Python
+
+[Ver repositório →](https://github.com/gugugustavofaria5-jpg/gerenciador-de-diarias-python)
+
+---
+
+## 04 / Minha jornada
+
+**Agora**
+- Fortalecer a lógica de programação e a prática com Python.
+- Consolidar o uso de Git e GitHub.
+- Melhorar a organização e a documentação dos meus projetos.
+
+**Próximas etapas**
+- Estudar HTML, CSS e JavaScript.
+- Aprender SQL e trabalhar com bancos de dados.
+- Desenvolver projetos que conectem aplicações e APIs.
+- Avançar nos estudos de desenvolvimento Backend.
+
+**Objetivo profissional**
+
+Conquistar uma oportunidade de estágio em programação, aprender com experiências reais de desenvolvimento e continuar evoluindo como profissional.
+
+---
+
+## 05 / Fora do código
+
+Gosto de tecnologia, computadores, jogos e de explorar como os programas funcionam. Este perfil reúne meus projetos, experiências de estudo e meu progresso na programação.
+
+---
+
+## 06 / Contato
+
+- **GitHub:** [gugugustavofaria5-jpg](https://github.com/gugugustavofaria5-jpg)
+- **Instagram:** [@gguynasn](https://www.instagram.com/gguynasn/)
+- **LinkedIn:** adicione o link do seu perfil aqui quando tiver a URL.
+
+---
 
 <div align="center">
-  <p><strong>Aprendendo, praticando e construindo.</strong></p>
-  <p>Obrigado por visitar meu perfil.</p>
+
+  <p><strong>Aprendendo. Praticando. Construindo.</strong></p>
+  <sub>Gustavo Faria · Perfil de desenvolvimento</sub>
+
 </div>
